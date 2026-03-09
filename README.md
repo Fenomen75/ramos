@@ -39,17 +39,15 @@ A lightweight, real-time system optimizer built with Tauri + React.
 
 ## Installation
 
-1. Download `ramos-installer.exe` from [Releases](../../releases)
-2. Run the installer
+Choose one of the options below from [Releases](../../releases):
+
+| Option | File | Description |
+|--------|------|-------------|
+| 📦 Installer | `ramos-installer.exe` | Full installation with uninstaller |
+| ⚡ Portable | `ramos.exe` | No installation needed, just run it |
 
 > ⚠️ **Windows may show a security warning** because this app is new and not yet widely distributed.
 > Click **"More info" → "Run anyway"** to proceed. This is normal for new open-source apps.
-
----
-
-## Or run without installing
-
-Download `ramos.exe` directly from [Releases](../../releases) and run it — no installation needed.
 
 ---
 
